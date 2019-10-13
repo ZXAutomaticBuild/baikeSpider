@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2c30801-5795-4a0a-9b34-c4eb3d0aebc3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/211工程.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/985工程.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/一流网络安全学院建设示范项目高校.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/世界一流大学和一流学科.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/中俄工科大学联盟.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/中华人民共和国工业和信息化部.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/中国人民解放军空军军医大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/中国政府奖学金来华留学生接收院校.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/中国航天科技集团有限公司.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/中国高校行星科学联盟.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/中欧精英大学联盟.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/云南大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/傅惠民.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/全国重点大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/冯培德.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/刘大响.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/北京理工大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/北京航空航天大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/北洋大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/卓越工程师教育培养计划.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/南京航空航天大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/厦门大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/周盛.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/哈尔滨工业大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/哈尔滨工程大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/四川大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/国家大学生创新性实验计划.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/国家建设高水平大学公派研究生项目.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/国家示范性软件学院.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/国家级大学生创新创业训练计划.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/国防特色学科.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/国际宇航联合会.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/基础学科拔尖学生培养试验计划.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/大学体育.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/天津大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/姚骏恩.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/张其善.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/张彦仲.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/张晓林.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/徐惠彬.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/怀进鹏.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/戚发轫.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/房建成.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/新工科研究与实践项目.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/曹淑敏.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/李伯虎.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/李天.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/李尚志.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/李未.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/李椿萱.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/李沛瑶.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/杜善义.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/杨国梁.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/武哲.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/江雷.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/深化创新创业教育改革示范高校.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/清华大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/王华明.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/王永志.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/王浚.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/王琪.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/现代空中交通管理.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/理论力学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/省部级副职.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/秒懂五千年.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/秒懂全视界.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/秒懂大师说.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/秒懂星课堂.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/秒懂看瓦特.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/罗阳.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/航空宇航科学与技术.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/航空科学与技术国家实验室.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/航空航天概论.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/虚拟现实新技术国家重点实验室（北京航空航天大学）.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/袁家军.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/西北工业大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/赵沁平.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/软件开发环境国家重点实验室（北京航空航天大学）.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/重庆大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/钟群鹏.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/闫楚良.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/陈宗基.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/陈懋章.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/飞机总体设计.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/高等学校创新能力提升计划.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/高等学校学科创新引智计划.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/baidu_infos/高镇同.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/上海交通大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/上海体育学院.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/上海大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/上海师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/东北大学[中国沈阳境内教育部直属重点大学].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/东北师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/东南大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/中华女子学院.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/中南大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/中国人民公安大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/中国人民大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/中国传媒大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/中国农业大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/中国劳动关系学院.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/中国戏曲学院.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/中国科学技术大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/中央民族大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/中山大学[中国广东省高校].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/兰州大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/北京体育大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/北京大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/北京师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/北京理工大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/北京科技大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/北京航空航天大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/华东师范大学[华东师范大学].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/华东理工大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/华中师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/华中科技大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/华南师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/华南理工大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/南京农业大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/南京大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/南京师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/南京理工大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/南京航空航天大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/南开大学[全国重点大学].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/厦门大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/吉林大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/同济大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/哈尔滨工业大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/四川大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/四川师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/复旦大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/大连理工大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/天津体育学院.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/天津大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/天津师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/宁波大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/安徽师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/山东大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/山东师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/山西大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/山西师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/广州体育学院.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/广州大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/广西师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/成都体育学院.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/扬州大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/暨南大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/曲阜师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/杭州师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/武汉体育学院.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/武汉大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/武汉理工大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/江西师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/沈阳师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/河北大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/河北师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/河南大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/河南师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/浙江大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/浙江工业大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/浙江师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/深圳大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/清华大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/温州大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/湖北大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/湖南大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/湖南师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/湖南科技大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/电子科技大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/福建师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/苏州大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/西北农林科技大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/西北工业大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/西北师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/西华师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/西南交通大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/西南大学[中国重庆市境内教育部直属高校].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/西安交通大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/西安电子科技大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/辽宁师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/郑州大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/重庆大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/陕西师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/集美大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/首都体育学院.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/首都师范大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/hudong_infos/鲁东大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/2001年夏季世界大学运动会.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/2008年夏季奥林匹克运动会.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/一·二八事变.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/万维网联盟.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/世界一流大学和一流学科建设.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/中俄工科大学联盟.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/中华人民共和国.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/中华人民共和国两院院士制度.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/中华人民共和国国家实验室列表.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/中华人民共和国国家重点实验室列表.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/中华人民共和国工业和信息化部.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/中华人民共和国工业和信息化部直属高等学校.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/中华人民共和国政府.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/中华人民共和国教育部.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/中国人民志愿军.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/中国共产党中央委员会.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/中国大陆电话区号.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/中国高等院校院系调整.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/中央部属高校.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/中法大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/九一八事变.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/云南大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/交通大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/党委书记.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/全国重点大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/八大学院.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/公立大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/冯如.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/勤工助学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/北京一号.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/北京市.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/北京理工大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/北京航空航天大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/北京航空航天大学体育馆.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/北京航空航天大学学院路校区.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/北京航空航天大学校史.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/北京航空航天大学沙河校区.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/北洋大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/华北大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/卓越工程师教育培养计划.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/博士.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/厦门大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/合肥市.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/周恩来.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/四川大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/国家实验室.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/国立中央大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/国立西北工学院.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/国际冠码列表.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/国际电话区号列表.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/地理坐标系.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/基础学科拔尖学生培养试验计划.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/天津大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/学院路 (北京).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/安托诺夫An-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/宗凤鸣.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/屠守锷.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/座右铭.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/徐惠彬.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/房山区.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/抗美援朝第一次战役.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/排球.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/探空火箭.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/文化大革命.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/无人航空载具.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/昆明市.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/昌平区.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/普通高等学校招生全国统一考试.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/曹淑敏.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/月宫一号.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/朝鲜战争.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/李富春.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/校刊.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/校色.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/校长.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/欧洲顶尖工业管理者高校联盟.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/武光.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/民航飞机.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/沈元 (空气动力学家).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/沙河地区.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/沙河高教园区.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/浙江大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/海淀区.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/清华大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/研究生.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/社会主义建设总路线.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/窦店镇.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/第八个五年计划 (中国).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/粉碎四人帮.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/红卫兵.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/莱特兄弟.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/西北工业大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/西南工业专科学校.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/邮政编码.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/重庆大学.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/长江学者奖励计划.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/青岛市.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baike_scrapy/data/wiki_infos/高等教育.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="963" />
+    <option name="y" value="9" />
+    <option name="width" value="957" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="baikeSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baikeSpider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baikeSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baikeSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="baike_scrapy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2c30801-5795-4a0a-9b34-c4eb3d0aebc3" name="Default Changelist" comment="" />
+      <created>1570939735116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570939735116</updated>
+      <workItem from="1570939742118" duration="277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="277000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Python Console" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
